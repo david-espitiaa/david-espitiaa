@@ -22,7 +22,7 @@ Actualmente estoy explorando:
 
 ## 📫 Contáctame
 - 💌 Correo: [david.espitiaa99@gmail.com](mailto:david.espitiaa99@gmail.com)
-- 🌐 Portafolio: [enlace_a_tu_portafolio](#)
+- 🌐 Portafolio: [portfolio](#)
 
 ---
 
