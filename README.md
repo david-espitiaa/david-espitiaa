@@ -23,12 +23,14 @@ Actualmente estoy explorando:
 
 ## 📫 Contáctame
 - 💌 Correo: [david.espitiaa99@gmail.com](mailto:david.espitiaa99@gmail.com)
+- 📷 Instagram: [@davidespitiaa](https://www.instagram.com/davidespitiaa/)
 - 🌐 Portafolio: [portfolio](#)
 
 ---
 
 ## ⚡ Un poco más sobre mí
-Fuera de la ingeniería, soy músico y suelo encaminar mis conocimientos de ingeniería hacia este ámbito.
+- 🎵 Soy músico y suelo encaminar mis conocimientos de ingeniería hacia este ámbito.7
+
 
 ¡Gracias por visitar mi perfil! 😊
 
