@@ -13,6 +13,19 @@
 
 ---
 
+## 💻 Software que utilizo:
+
+- **Siemens TIA Portal**
+- **AutoCAD**
+- **KiCAD**
+- **ALtium Designer**
+- **LabView**
+- **Multiim**
+- **Git**
+- **Inventor**
+  
+---
+
 ## 🌱 Estoy aprendiendo
 Actualmente estoy explorando:
 - Visión artificial para distintas aplicaciones.
