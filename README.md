@@ -37,13 +37,12 @@ Actualmente estoy explorando:
 ## 📫 Contáctame
 - 💌 Correo: [david.espitiaa99@gmail.com](mailto:david.espitiaa99@gmail.com)
 - 📷 Instagram: [@davidespitiaa](https://www.instagram.com/davidespitiaa/)
-- 🌐 Portafolio: [portfolio](#)
+- 🌐 Currículum: [Pagina Web](https://david-espitiaa.github.io/cv/)
 
 ---
 
 ## ⚡ Un poco más sobre mí
 - 🎵 Soy músico y suelo encaminar mis conocimientos de ingeniería hacia este ámbito.
-- 📄 Mi Curriculum: https://david-espitiaa.github.io/cv/
 
 
 ¡Gracias por visitar mi perfil! 😊
