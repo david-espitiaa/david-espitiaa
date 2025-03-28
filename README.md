@@ -43,6 +43,7 @@ Actualmente estoy explorando:
 
 ## ⚡ Un poco más sobre mí
 - 🎵 Soy músico y suelo encaminar mis conocimientos de ingeniería hacia este ámbito.
+- 📄 Mi Curriculum: https://david-espitiaa.github.io/cv/
 
 
 ¡Gracias por visitar mi perfil! 😊
